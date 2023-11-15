@@ -23,6 +23,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.plot-container .plotly {
+  height: 70vh;
+  width: 100%;
+}
 
 .App-link {
   color: #61dafb;
